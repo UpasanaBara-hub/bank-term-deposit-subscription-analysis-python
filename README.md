@@ -81,6 +81,22 @@ Key analyses performed:
 
 ---
 
+## Project Structure
+
+bank-term-deposit-subscription-analysis-python/
+│
+├── data/
+│   └── data.csv
+│
+├── notebooks/
+│   └── Advance_Bank_Term_Deposit.ipynb
+├── visuals/
+│   └── charts.png
+│
+└── README.md
+
+---
+
 ## Conclusion
 This project demonstrates the ability to:
 - Analyze real-world banking data using Python  
