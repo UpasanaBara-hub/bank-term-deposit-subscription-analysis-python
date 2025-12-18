@@ -85,15 +85,15 @@ Key analyses performed:
 
 bank-term-deposit-subscription-analysis-python/
 │
-├── data/
+── data/
 │   └── data.csv
 │
-├── notebooks/
+── notebooks/
 │   └── Advance_Bank_Term_Deposit.ipynb
-├── visuals/
+── visuals/
 │   └── charts.png
 │
-└── README.md
+── README.md
 
 ---
 
