@@ -1,4 +1,4 @@
-# Advanced Bank Term Deposit Subscription Analysis (Python)
+# Bank Term Deposit Subscription Analysis (Python)
 
 ## Project Overview
 This project analyzes bank marketing campaign data to identify **key factors influencing customer subscription to term deposits**.  
